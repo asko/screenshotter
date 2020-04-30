@@ -1,0 +1,26 @@
+{
+  "name": "screenshotter",
+  "version": "1.0.0",
+  "description": "quick tool to make a screenshot of a page",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asko/screenshotter.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "screenshot"
+  ],
+  "author": "github.com/asko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asko/screenshotter/issues"
+  },
+  "homepage": "https://github.com/asko/screenshotter#readme",
+  "dependencies": {
+    "puppeteer": "^3.0.2"
+  }
+}
